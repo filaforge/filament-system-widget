@@ -1,6 +1,6 @@
 {
     "name": "filament/system-widget",
-  "version": "0.1.0",
+  "version": "0.1.2",
     "description": "Filament v4 dashboard widget for real-time system monitoring",
     "type": "library",
     "license": "MIT",
