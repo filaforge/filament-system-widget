@@ -1,5 +1,5 @@
 {
-    "name": "filaforge/system-widget",
+    "name": "filament/system-widget",
     "description": "Filament v4 dashboard widget for real-time system monitoring",
     "type": "library",
     "license": "MIT",
