@@ -1,5 +1,5 @@
 {
-    "name": "filaforge/filament-system-widget",
+    "name": "filament/system-widget",
   "version": "0.1.0",
     "description": "Filament v4 dashboard widget for real-time system monitoring",
     "type": "library",
